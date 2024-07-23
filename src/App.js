@@ -11,6 +11,7 @@ function App() {
   return (
     <div className="App">
       <Greet name="Diana" heroName="Wonder Woman"/>
+      <Welcome name="Bruce" heroName="Batman" />
       {/* <Counter /> */}
       {/* <Message /> */}
       {/* <Greet name="Bruce" heroName="Batman" >
